@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Ambiente
+.env
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+
+# Docker
+postgres_data/
